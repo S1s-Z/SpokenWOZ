@@ -1,1 +1,3 @@
-You can find SpokenWOZ in this link: https://spokenwoz.github.io/.
+# SpokenWOZ
+
+You can find SpokenWOZ at this link: https://spokenwoz.github.io/, which includes the data, code, and benchmark.
